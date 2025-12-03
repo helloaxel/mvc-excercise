@@ -11,7 +11,7 @@ class PlantaController {
 
     public function mostrarLista() {
         $plantas = $this->model->obtenerPlantas();
-        include __DIR__ . '/../View/lista_plantas.php';
+        include __DIR__ . '/../View/PlantaView.php';
     }
 
 }
