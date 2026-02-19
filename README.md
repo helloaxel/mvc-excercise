@@ -1,5 +1,5 @@
 
-# Plant Catalog - MVC Practice   ᭄᭡𓍊𓋼𓍊𓋼𓍊᭄᭡
+# Plant Catalog - MVC Practice   •:⸙˖𓍊𓋼𓍊𓋼𓍊•:⸙˖
 
 This is a straightforward PHP project created to practice code separation into layers and the use of professional web development tools.
 
